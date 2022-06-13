@@ -23,9 +23,9 @@ class Sample
 };
 int main()
 {
-    Sample object;
-    object.getdata();
-    cout<<"The Mean is:"<<mean(object);
+    Sample obj;
+    obj.getdata();
+    cout<<"The Mean is:"<<mean(obj);
     return 0;
 
 }
