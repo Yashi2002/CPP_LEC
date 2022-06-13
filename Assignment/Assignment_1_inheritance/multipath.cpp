@@ -22,7 +22,7 @@ class student
     }
 };
 
-class internal_exam: virtual public student
+class internal_exam: virtual public student // duplication of inherited member due to multiple paths can be avoided by virtual base class
 {
     protected:
     int mark1, mark2, mark3;
