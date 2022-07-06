@@ -13,7 +13,7 @@ class shape
     }
     int area()
     {
-        cout<<"THe area of shape is:"<<endl;
+        cout<<"The area of shape is:"<<endl;
     }
 };
 
