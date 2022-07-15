@@ -19,6 +19,6 @@ int main(){
     catch(float x){
         cout<<"Exception caught. Float type \n";
     }
-    cout<<"After cathch \n";
+    cout<<"After catch \n";
     return 0;
 }
